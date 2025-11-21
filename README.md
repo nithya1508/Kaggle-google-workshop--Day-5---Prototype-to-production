@@ -1,5 +1,7 @@
 **High-Level Overview of Day 1–4**
+
 **Day 1 – Foundations & Architectures**
+
 Understanding how prompts are translated into agent actions
 
 Differentiating local vs. remote agents
@@ -41,7 +43,9 @@ Continuous improvement loops and version performance tracking
 These form the structural building blocks required before advancing to Day 5.
 
 **Day 5 – Multi-Agent Communication and Agent Deployment (Deep Technical Focus)**
+
 **Day 5 addresses the two highest-value production features in modern agentic systems:**
+
 
 **1. Agent-to-Agent Communication**
 
