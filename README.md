@@ -68,7 +68,9 @@ Designing which parts of memory, session state, or knowledge should be shared be
 **Deterministic Routing Logic:**
 Control mechanisms that decide when one agent must call another, based on intent, error states, or task boundaries.
 
-Why Multi-Agent Systems Matter,Enable modularity, separation of concerns, and enhanced reliability.Allow for scaling horizontally by assigning tasks to multiple agents,Improve quality through domain-specialized reasoning.Support complex workflows like research, summarization, planning, validation, and tool execution.Provide resilience if one agent fails or returns incomplete reasoning
+**Why Multi-Agent Systems Matter**
+
+Enable modularity, separation of concerns, and enhanced reliability.Allow for scaling horizontally by assigning tasks to multiple agents,Improve quality through domain-specialized reasoning.Support complex workflows like research, summarization, planning, validation, and tool execution.Provide resilience if one agent fails or returns incomplete reasoning
 This notebook demonstrates how to architect these communication loops and how messaging is exchanged across agents in the Vertex AI environment.
 
 **2. Agent Deployment**
